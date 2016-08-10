@@ -1,0 +1,6 @@
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\bin\Debug\Clock Radio.exe.config
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\bin\Debug\Clock Radio.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\bin\Debug\Clock Radio.pdb
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\obj\Debug\Clock Radio.csprojResolveAssemblyReference.cache
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\obj\Debug\Clock Radio.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Clock Radio\Clock Radio\obj\Debug\Clock Radio.pdb

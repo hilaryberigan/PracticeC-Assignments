@@ -1,0 +1,6 @@
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe.config
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\bin\Debug\Fizzbuzz.pdb
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.csprojResolveAssemblyReference.cache
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Fizzbuzz\Fizzbuzz\obj\Debug\Fizzbuzz.pdb

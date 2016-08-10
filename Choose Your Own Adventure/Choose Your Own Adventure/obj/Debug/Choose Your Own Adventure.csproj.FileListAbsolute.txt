@@ -1,0 +1,6 @@
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.exe.config
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.csprojResolveAssemblyReference.cache
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.pdb
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.exe
+c:\users\berig\onedrive\documents\visual studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.pdb
