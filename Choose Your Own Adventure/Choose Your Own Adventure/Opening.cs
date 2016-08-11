@@ -8,7 +8,7 @@ namespace Choose_Your_Own_Adventure
 {
     class Opening
     {
-        User user = new User();
+        User user;
 
         public Opening(User name)
         {

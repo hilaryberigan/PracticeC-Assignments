@@ -11,11 +11,12 @@ namespace Choose_Your_Own_Adventure
         User user;
         public string firstPath;
 
-        Clue clue = new Clue();
+        Clue clue;
 
         public Adventure(User name)
 
         {
+            clue = new Clue();
             this.user = name;
          }
 
@@ -26,6 +27,9 @@ namespace Choose_Your_Own_Adventure
             Console.WriteLine("Oh no! I hear a rustling nearby!");
             clue.chooseClueType();
             getClueChoice();
+            Console.WriteLine("Let's go inside! [Press Enter when you're ready]");
+            Console.ReadLine();
+            Console.WriteLine("Hoorayy!! We found the Crystal of Immortality. You've saved me!");
         }
         
         

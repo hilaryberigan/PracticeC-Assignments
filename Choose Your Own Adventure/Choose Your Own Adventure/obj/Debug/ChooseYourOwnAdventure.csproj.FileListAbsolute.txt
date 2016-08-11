@@ -4,3 +4,9 @@ C:\Users\berig\OneDrive\Documents\Visual Studio 2015\Projects\Choose Your Own Ad
 C:\Users\berig\OneDrive\Documents\Visual Studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.exe
 C:\Users\berig\OneDrive\Documents\Visual Studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.pdb
 C:\Users\berig\OneDrive\Documents\Visual Studio 2015\Projects\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\ChooseYourOwnAdventure.csprojResolveAssemblyReference.cache
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.exe.config
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.exe
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\Choose Your Own Adventure.pdb
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.exe
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\bin\Debug\Choose Your Own Adventure.pdb
+C:\Users\berig\OneDrive\DevCodeCamp Projects\PracticeC-Assignments\Choose Your Own Adventure\Choose Your Own Adventure\obj\Debug\ChooseYourOwnAdventure.csprojResolveAssemblyReference.cache

@@ -46,7 +46,6 @@
     <Compile Include="Warehouse.cs" />
     <Compile Include="Adventure.cs" />
     <Compile Include="Clue.cs" />
-    <Compile Include="Compudora.cs" />
     <Compile Include="Forest.cs" />
     <Compile Include="Opening.cs" />
     <Compile Include="Place.cs" />
