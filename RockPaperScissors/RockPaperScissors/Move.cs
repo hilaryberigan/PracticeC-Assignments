@@ -19,7 +19,7 @@ namespace RockPaperScissors
             movesArray[2] = "scissors";
 
             Random random = new Random();
-            string randomMove = movesArray[random.Next(1, 3)];
+            string randomMove = movesArray[random.Next(0, 2)];
             Console.WriteLine(randomMove);
             return randomMove;
         }
